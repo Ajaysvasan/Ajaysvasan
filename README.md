@@ -45,21 +45,11 @@ Here’s a glimpse of some of my key projects:
 
 ---
 
-### 📈 Competitive Programming
-- Leetcode: 500+ Hard Problems Solved  
-- Codeforces: Expert Level Coder
-
----
-
 ### 📫 Connect With Me
 - 📧 Email: [ajay192006@gmail.com](mailto:ajay192006@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/ajay-s-vasan-584111291](https://www.linkedin.com/in/ajay-s-vasan-584111291)  
 - 💻 GitHub: [github.com/Ajaysvasan](https://github.com/Ajaysvasan)
 
----
-
-### 💭 Fun Fact
-I'm obsessed with building intelligent systems like **JARVIS-style AI assistants**, and I'm on a mission to crack **FAANG/HFT/AI Research Lab roles with ₹1 Cr+ package**!
 
 ---
 
