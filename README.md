@@ -22,8 +22,8 @@ Here’s a glimpse of some of my key projects:
 - 💬 **Medical Chatbot** — AI-driven chatbot for preliminary health diagnosis using NLP + Transformers  
 - 🧠 **Breast Cancer Detection (CNN)** — Early-stage detection of cancer via histopathological image classification  
 - ❤️ **Heart Disease Prediction (Random Forest)** — Predictive analytics system for clinical diagnosis using structured data  
-- 🕵️ **Deepfake Detection System** — CNN + Attention-based model for real-time detection of synthetic media  
-- 🎨 **AI-Enhanced Photo Upscaler & Deepfake Generator** — Image enhancement + GAN-based face synthesis pipeline  
+- 🕵️ **Deepfake Detection System** — CNN + Attention-based model for real-time detection of synthetic media
+- And more exciting projects of mine  
 
 ➡️ More on my projects in the repositories section!
 
