@@ -1,8 +1,8 @@
-<!-- Modern GitHub Profile README for Ajay S Vasan -->
+<!-- Modern GitHub Profile README for Ajay S Vasan (Fixed & Optimized) -->
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/3H0T8rP.gif" width="100%" alt="AI Banner">
+  <img src="https://github.com/Ajaysvasan/Ajaysvasan/blob/main/assets/ai_banner.gif" width="100%" alt="AI Banner">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2;">Ajay S Vasan</span></h1>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Ajaysvasan">
-    <img src="https://komarev.com/ghpvc/?username=Ajaysvasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Ajay Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Ajaysvasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -137,6 +137,6 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/Xd0iXoX.gif" width="60%" alt="Thanks for visiting!">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60%" alt="Thanks for visiting!">
 </p>
 
