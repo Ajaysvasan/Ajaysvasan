@@ -70,12 +70,6 @@ REST APIs • Data Preprocessing • Model Deployment • Inference Optimization
 
 ---
 
-## 🚧 Upcoming Projects  
-- 🧩 **AI Personal Assistant** (Voice + Vision + Actions)  
-- 🔐 **Virtual RL Sandbox** for secure reinforcement learning execution  
-- 💬 **Discord + Codeforces Mashup** with AI Cheating Detection  
-- 🧠 **LLM Fine-tuning Pipeline** for domain-specific tasks  
-
 ---
 
 ## 🔬 Featured Projects  
