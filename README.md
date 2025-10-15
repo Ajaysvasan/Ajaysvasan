@@ -1,79 +1,142 @@
-# 👋 Hi, I’m Ajay S Vasan  
-🚀 AI/ML Developer | 🧠 Deep Learning Enthusiast | 💻 Competitive Programmer
+<!-- Modern GitHub Profile README for Ajay S Vasan -->
+
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/3H0T8rP.gif" width="100%" alt="AI Banner">
+</p>
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2;">Ajay S Vasan</span></h1>
+<h3 align="center">🚀 AI/ML Engineer | 🧠 Deep Learning Enthusiast | 💻 Full-Stack Developer | 🏁 Competitive Programmer</h3>
+
+<p align="center">
+  <a href="https://github.com/Ajaysvasan">
+    <img src="https://komarev.com/ghpvc/?username=Ajaysvasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Ajay Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 💡 About Me  
-I’m an aspiring **AI/ML Engineer**, currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning (2023–2027)** at **St. Joseph’s College of Engineering**.
+## 🧭 About Me  
 
-I’m passionate about building **intelligent, real-world AI solutions** that make a difference — from **healthcare diagnostics** to **smart surveillance systems**, and beyond.
+I’m an aspiring **AI/ML Engineer** currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning (2023–2027)** at **St. Joseph’s College of Engineering**.  
+
+I love creating **scalable, real-world AI systems** that merge deep learning, full-stack engineering, and creativity — from **smart healthcare** to **intelligent automation**.  
 
 > “I believe in merging data, creativity, and engineering to build AI that truly matters.”
 
 ---
 
-### 🔍 Core Focus Areas:
-- 🧠 Deep Learning & Neural Network Architectures  
+## 🔍 Core Focus Areas  
+- 🧠 Deep Learning, CNNs, Transformers, and GANs  
 - ♻️ Reinforcement Learning & AI Optimization  
-- 🎨 Generative AI (GANs, Diffusion Models)  
-- ⚡ High-Performance AI Systems  
-- 📊 Model Compression, Quantization & Inference Acceleration
+- 🎨 Generative AI & LLM Fine-tuning  
+- ⚙️ System Design, API Engineering & Model Deployment  
+- ⚡ Model Optimization, Quantization & Performance Tuning  
 
 ---
 
-## 🔬 **Featured Projects**  
-> *A glimpse into the work that drives my passion for solving real-world problems.*
+## 💻 Tech Stack  
 
-### 🕵️‍♂️ **Deepfake Detection System**  
-> _Combating synthetic media with intelligence._  
-Designed a **real-time deepfake detection system** using **CNNs with attention mechanisms**. This model effectively identifies manipulated media and helps tackle misinformation, fake news, and visual forgery.
+**🧠 Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### 🎥 **Smart Security Camera Prototype**  
-> _AI-powered surveillance with object detection._  
-Developed a **real-time object detection camera system** using **YOLOv5 and OpenCV**, capable of identifying suspicious movements and generating alerts — promoting intelligent monitoring and enhanced security automation.
+**🧩 Frameworks & Libraries:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
 
-### 💬 **Medical Chatbot (NLP + Transformers)**  
-> _AI conversational assistant for preliminary diagnosis._  
-Built a **smart medical chatbot** powered by **NLP and Transformer models** to assist users with **symptom-based health inquiries**. The system aims to improve early diagnosis accessibility through natural, user-friendly interaction.
+**⚙️ Domains:**  
+NLP • Computer Vision • LLMs • Reinforcement Learning • Generative AI  
 
-### ❤️ **Heart Disease Prediction System (ML)**  
-> _Predictive analytics for better healthcare decisions._  
-Created a **Random Forest-based diagnostic model** that analyzes patient data to predict the likelihood of heart disease. It supports healthcare professionals in proactive, data-driven medical decision-making.
-
-### 📚 **Student Database Management System (C++)**  
-> _Learning by doing — building from scratch._  
-A robust **menu-driven student database system**, developed entirely in **C++ using doubly linked lists** — intentionally designed **without SQL**, to explore **core data structure concepts, memory handling, and OOP principles**. This project was a hands-on approach to mastering low-level system logic.
-
----
-
-## ⚙️ **Tech Stack at a Glance**
-> _Tools I use to turn ideas into intelligent systems._
-
-- **Languages:** Python • C++ • Java • C  
-- **Frameworks & Libraries:** TensorFlow • PyTorch • OpenCV • Scikit-learn • FastAPI  
-- **Domains:** NLP • Computer Vision • LLMs • High-Performance Computing  
-- **Additional Skills:** Data Preprocessing • Model Optimization • REST API Design • Inference Acceleration
+**🧠 Additional Skills:**  
+REST APIs • Data Preprocessing • Model Deployment • Inference Optimization  
 
 ---
 
-## 🏆 **Achievements**
-> _Milestones that reflect my journey in AI & innovation._
+## 🧠 Currently Learning  
+- Advanced **Reinforcement Learning** (custom RL environments)  
+- **Distributed AI training** using Ray / PyTorch Lightning  
+- **Full-stack architecture** using React + Node.js + FastAPI  
+- Exploring **AI Agent Design** for personal assistant systems  
+
+---
+
+## 🚧 Upcoming Projects  
+- 🧩 **AI Personal Assistant** (Voice + Vision + Actions)  
+- 🔐 **Virtual RL Sandbox** for secure reinforcement learning execution  
+- 💬 **Discord + Codeforces Mashup** with AI Cheating Detection  
+- 🧠 **LLM Fine-tuning Pipeline** for domain-specific tasks  
+
+---
+
+## 🔬 Featured Projects  
+
+### 🕵️‍♂️ Deepfake Detection System  
+> Real-time detection using CNN + Attention models  
+- Identifies manipulated frames with >95% accuracy  
+- **Tech:** TensorFlow, Keras, OpenCV, Flask  
+
+### 🎥 Smart Security Camera Prototype  
+> AI-powered surveillance with object tracking  
+- Built using YOLOv5 and OpenCV  
+- Generates alerts for suspicious movements  
+
+### 💬 Medical Chatbot (Transformers + NLP)  
+> Conversational assistant for healthcare inquiries  
+- NLP-based diagnosis suggestion engine  
+
+### ❤️ Heart Disease Prediction System  
+> Random Forest model for predictive analytics  
+- Enables early diagnosis through data-driven insight  
+
+### 💾 Student Database System (C++)  
+> Built from scratch using **Doubly Linked Lists**  
+- Demonstrates strong OOP, logic, and system design skills  
+
+---
+
+## 🏆 Achievements  
 
 - 🥇 **Winner** – ProjectFest (AI/ML Innovation Challenge)  
 - 🏆 **Top Rank** – IEEE Software Competition, Sairam College  
-- 📈 **IBM Datathon** – Participant (Shooting Star Foundation)  
-- 🎯 **AIML Challenge 2** – Participant, IIT Madras
+- 💡 **Participant** – IBM Datathon (Shooting Star Foundation)  
+- 🎯 **Participant** – AIML Challenge 2, IIT Madras  
 
 ---
 
-## 🤝 **Let’s Connect!**
-> _I’m always open to collaboration, mentorship, or just a great tech conversation._
+## 📊 GitHub Insights  
 
-- 📧 **Email:** [ajay192006@gmail.com](mailto:ajay192006@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/ajay-s-vasan-584111291](https://linkedin.com/in/ajay-s-vasan-584111291)  
-- 💻 **GitHub:** [github.com/Ajaysvasan](https://github.com/Ajaysvasan)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ajaysvasan&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaysvasan&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysvasan&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-> ⭐ *Explore my repositories — and if something sparks your interest, don’t forget to star or connect with me!*
+## 🤝 Let’s Connect  
+
+📧 [ajay192006@gmail.com](mailto:ajay192006@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/ajay-s-vasan-584111291)  
+💻 [GitHub](https://github.com/Ajaysvasan)  
+
+> ⭐ If my work inspires you, don’t forget to star a repo or drop a message — let’s build something amazing together!
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/Xd0iXoX.gif" width="60%" alt="Thanks for visiting!">
+</p>
 
