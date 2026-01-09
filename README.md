@@ -1,142 +1,117 @@
-<!-- Modern GitHub Profile README for Ajay S Vasan (Fixed & Optimized) -->
+# Ajay S Vasan
 
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://github.com/Ajaysvasan/Ajaysvasan/blob/main/assets/ai_banner.gif" width="100%" alt="AI Banner">
-</p>
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#8A2BE2;">Ajay S Vasan</span></h1>
-<h3 align="center">🚀 AI/ML Engineer | 🧠 Deep Learning Enthusiast | 💻 Full-Stack Developer | 🏁 Competitive Programmer</h3>
-
-<p align="center">
-  <a href="https://github.com/Ajaysvasan">
-    <img src="https://komarev.com/ghpvc/?username=Ajaysvasan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+AI/ML Engineer • Backend & Systems Developer • Competitive Programmer  
+B.Tech – Artificial Intelligence & Machine Learning (2023–2027)
 
 ---
 
-## 🧭 About Me  
+## About
 
-I’m an aspiring **AI/ML Engineer** currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning (2023–2027)** at **St. Joseph’s College of Engineering**.  
+I build **real-world AI systems and backend infrastructure** with a strong focus on:
 
-I love creating **scalable, real-world AI systems** that merge deep learning, full-stack engineering, and creativity — from **smart healthcare** to **intelligent automation**.  
+- correctness
+- performance
+- security
+- and low-level understanding of how things work
 
-> “I believe in merging data, creativity, and engineering to build AI that truly matters.”
-
----
-
-## 🔍 Core Focus Areas  
-- 🧠 Deep Learning, CNNs, Transformers, and GANs  
-- ♻️ Reinforcement Learning & AI Optimization  
-- 🎨 Generative AI & LLM Fine-tuning  
-- ⚙️ System Design, API Engineering & Model Deployment  
-- ⚡ Model Optimization, Quantization & Performance Tuning  
+I enjoy working close to the system — from **C++ data structures** to **distributed AI pipelines** — and I care deeply about writing clean, explainable, and production-grade code.
 
 ---
 
-## 💻 Tech Stack  
+## Current Focus (2025–2026)
 
-**🧠 Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**🧩 Frameworks & Libraries:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
-
-**⚙️ Domains:**  
-NLP • Computer Vision • LLMs • Reinforcement Learning • Generative AI  
-
-**🧠 Additional Skills:**  
-REST APIs • Data Preprocessing • Model Deployment • Inference Optimization  
+- Large-scale **RAG & LLM systems** (anti-hallucination, caching, validation)
+- **Reinforcement Learning systems** with secure execution
+- Backend engineering (auth, APIs, real-time systems)
+- Core CS: OS, DBMS, CN, System Design (interview + implementation level)
 
 ---
 
-## 🧠 Currently Learning  
-- Advanced **Reinforcement Learning** (custom RL environments)  
-- **Distributed AI training** using Ray / PyTorch Lightning  
-- **Full-stack architecture** using React + Node.js + FastAPI  
-- Exploring **AI Agent Design** for personal assistant systems  
+## Active Projects
+
+### 🔹 RAG-TCRL-X (Research-grade RAG System)
+
+A correctness-first Retrieval-Augmented Generation system with:
+
+- Topic-conditioned FAISS HNSW retrieval
+- Global semantic retrieval-plan cache
+- Belief-based memory & refusal-first validation
+- RL-based system-level control
+- GPU → CPU fault-tolerant fallback
+
+🔗 https://github.com/Ajaysvasan/RAG-TCRL-X
 
 ---
 
-## 🚧 Upcoming Projects  
-- 🧩 **AI Personal Assistant** (Voice + Vision + Actions)  
-- 🔐 **Virtual RL Sandbox** for secure reinforcement learning execution  
-- 💬 **Discord + Codeforces Mashup** with AI Cheating Detection  
-- 🧠 **LLM Fine-tuning Pipeline** for domain-specific tasks  
+### 🔹 Virtual RL Box
+
+A secure reinforcement learning sandbox focused on **safe execution**:
+
+- Custom RL environments
+- AES-encrypted communication
+- Argon2 password hashing
+- API hardening & access control
+
+🔗 https://github.com/Ajaysvasan/Virtual-RL-Box
 
 ---
 
-## 🔬 Featured Projects  
+### 🔹 Discord + Codeforces Mashup
 
-### 🕵️‍♂️ Deepfake Detection System  
-> Real-time detection using CNN + Attention models  
-- Identifies manipulated frames with >95% accuracy  
-- **Tech:** TensorFlow, Keras, OpenCV, Flask  
+A full-stack competitive programming platform:
 
-### 🎥 Smart Security Camera Prototype  
-> AI-powered surveillance with object tracking  
-- Built using YOLOv5 and OpenCV  
-- Generates alerts for suspicious movements  
+- Team-based contests
+- Secure sandboxed code execution
+- Real-time collaboration
+- AI-based cheating detection
 
-### 💬 Medical Chatbot (Transformers + NLP)  
-> Conversational assistant for healthcare inquiries  
-- NLP-based diagnosis suggestion engine  
-
-### ❤️ Heart Disease Prediction System  
-> Random Forest model for predictive analytics  
-- Enables early diagnosis through data-driven insight  
-
-### 💾 Student Database System (C++)  
-> Built from scratch using **Doubly Linked Lists**  
-- Demonstrates strong OOP, logic, and system design skills  
+🔗 https://github.com/Ajaysvasan/Discord-Codeforces-Mashup
 
 ---
 
-## 🏆 Achievements  
+### 🔹 Focus Guard
 
-- 🥇 **Winner** – ProjectFest (AI/ML Innovation Challenge)  
-- 🏆 **Top Rank** – IEEE Software Competition, Sairam College  
-- 💡 **Participant** – IBM Datathon (Shooting Star Foundation)  
-- 🎯 **Participant** – AIML Challenge 2, IIT Madras  
+A productivity-focused system utility:
 
----
+- Blocks distracting applications during deep work
+- Actively kills forbidden processes
+- Built to understand OS-level process handling
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ajaysvasan&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaysvasan&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysvasan&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+🔗 https://github.com/Ajaysvasan/Focus-Guard
 
 ---
 
-## 🤝 Let’s Connect  
+## Core Skills
 
-📧 [ajay192006@gmail.com](mailto:ajay192006@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ajay-s-vasan-584111291)  
-💻 [GitHub](https://github.com/Ajaysvasan)  
+**Languages:**  
+C++, Python, JavaScript, TypeScript, C
 
-> ⭐ If my work inspires you, don’t forget to star a repo or drop a message — let’s build something amazing together!
+**AI / ML:**  
+Deep Learning, CNNs, Transformers, Reinforcement Learning, RAG, LLMs
+
+**Backend & Systems:**  
+FastAPI, Node.js, Auth systems, Secure APIs, Linux, Low-level design
+
+**Foundations:**  
+Data Structures, OOP, Memory Management, OS concepts
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60%" alt="Thanks for visiting!">
-</p>
+## Achievements
 
+- Winner – ProjectFest (AI/ML)
+- Winner – IEEE Software Competition (Sairam College)
+- Participant – IBM Datathon (Global)
+- Participant – AIML Challenge, IIT Madras
+
+---
+
+## Contact
+
+📧 ajay192006@gmail.com  
+🔗 https://github.com/Ajaysvasan  
+🔗 https://linkedin.com/in/ajay-s-vasan-584111291
+
+---
+
+_I prefer building fewer projects — but building them deeply and correctly._
