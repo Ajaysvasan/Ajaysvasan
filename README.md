@@ -39,9 +39,7 @@ A correctness-first Retrieval-Augmented Generation system with:
 - RL-based system-level control
 - GPU → CPU fault-tolerant fallback
 
-🔗 https://github.com/Ajaysvasan/RAG-TCRL-X
-
----
+## 🔗 https://github.com/Ajaysvasan/memory_retrival
 
 ### 🔹 Virtual RL Box
 
@@ -65,9 +63,9 @@ A full-stack competitive programming platform:
 - Real-time collaboration
 - AI-based cheating detection
 
-🔗 https://github.com/Ajaysvasan/Discord-Codeforces-Mashup
+## 🔗 https://github.com/Ajaysvasan/Discord-codeForces-project
 
----
+--
 
 ### 🔹 Focus Guard
 
@@ -77,9 +75,7 @@ A productivity-focused system utility:
 - Actively kills forbidden processes
 - Built to understand OS-level process handling
 
-🔗 https://github.com/Ajaysvasan/Focus-Guard
-
----
+## 🔗 https://github.com/Ajaysvasan/FocusGaurd
 
 ## Core Skills
 
