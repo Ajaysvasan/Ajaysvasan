@@ -12,9 +12,29 @@ I build **real-world AI systems and backend infrastructure** with a strong focus
 - correctness
 - performance
 - security
-- and low-level understanding of how things work
+- low-level understanding of how things work
 
-I enjoy working close to the system — from **C++ data structures** to **distributed AI pipelines** — and I care deeply about writing clean, explainable, and production-grade code.
+I enjoy working close to the system — from **C++ data structures** to **distributed AI pipelines** — and I care deeply about writing clean, explainable, production-grade code.
+
+---
+
+## Experience
+
+**Full Stack Developer Intern — OneYes Infotech Solutions Pvt. Ltd.**  
+_Dec 2025 – Jan 2026_
+
+- Built backend APIs for a role-based online assessment platform
+- Implemented authentication & authorization workflows
+- Worked with JS/TS backend systems under real production constraints
+
+---
+
+**Data Engineering Intern — Data Patterns**  
+_Internship_
+
+- Designed and executed large-scale web scraping pipelines
+- Scraped and processed **100,000+ structured data records**
+- Focused on data reliability, cleaning, and storage for downstream use
 
 ---
 
@@ -29,9 +49,9 @@ I enjoy working close to the system — from **C++ data structures** to **distri
 
 ## Active Projects
 
-### 🔹 RAG-TCRL-X (Research-grade RAG System)
+### 🔹 RAG-TCRL-X — Research-grade RAG System
 
-A correctness-first Retrieval-Augmented Generation system with:
+A correctness-first Retrieval-Augmented Generation system featuring:
 
 - Topic-conditioned FAISS HNSW retrieval
 - Global semantic retrieval-plan cache
@@ -39,7 +59,9 @@ A correctness-first Retrieval-Augmented Generation system with:
 - RL-based system-level control
 - GPU → CPU fault-tolerant fallback
 
-## 🔗 https://github.com/Ajaysvasan/memory_retrival
+🔗 https://github.com/Ajaysvasan/memory_retrival
+
+---
 
 ### 🔹 Virtual RL Box
 
@@ -63,9 +85,9 @@ A full-stack competitive programming platform:
 - Real-time collaboration
 - AI-based cheating detection
 
-## 🔗 https://github.com/Ajaysvasan/Discord-codeForces-project
+🔗 https://github.com/Ajaysvasan/Discord-codeForces-project
 
---
+---
 
 ### 🔹 Focus Guard
 
@@ -75,7 +97,9 @@ A productivity-focused system utility:
 - Actively kills forbidden processes
 - Built to understand OS-level process handling
 
-## 🔗 https://github.com/Ajaysvasan/FocusGaurd
+🔗 https://github.com/Ajaysvasan/FocusGaurd
+
+---
 
 ## Core Skills
 
