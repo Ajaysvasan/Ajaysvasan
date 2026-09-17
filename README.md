@@ -1,137 +1,104 @@
 # Ajay S Vasan
 
-AI/ML Engineer • Backend & Systems Developer • Competitive Programmer  
-B.Tech – Artificial Intelligence & Machine Learning (2023–2027)
+<sub>software engineer · backend systems · AI systems · low-level engineering</sub>
 
----
+I like understanding how things work underneath the abstractions — from data structures and memory management to retrieval systems, databases, and local AI infrastructure.
 
-## About
+[GitHub](https://github.com/Ajaysvasan) · [LinkedIn](https://linkedin.com/in/ajay-s-vasan-584111291)
 
-I build **real-world AI systems and backend infrastructure** with a strong focus on:
+## Projects
 
-- correctness
-- performance
-- security
-- low-level understanding of how things work
+### MMRAG — Multi-Model RAG for Searching
 
-I enjoy working close to the system — from **C++ data structures** to **distributed AI pipelines** — and I care deeply about writing clean, explainable, production-grade code.
+[`multi_model_rag_for_searching`](https://github.com/Ajaysvasan/multi_model_rag_for_searching)<br>
+<sub>Python · C++ · FastAPI · PostgreSQL · FAISS · llama.cpp · Electron</sub>
 
----
+Multimodal RAG that doesn't start from scratch on every query. MMRAG keeps a history of past queries and detects when a new one is semantically similar to an earlier query — even when it's phrased differently — so the retrieval work already done can be reused.
 
-## Experience
+```
+Electron client ──► FastAPI ──► query processing
+                                        │
+┌─ retrieval engine ────────────────────▼─────┐   ┌─ data plane ─────────────┐
+│  1  topic cache              ┐              │   │  PostgreSQL              │
+│  2  history reuse            ┘ cache layers │   │  FAISS HNSW index        │
+│  3  FAISS ANN retrieval                     ├───┤  AdapterModule           │
+│  4  cross-encoder reranking                 │   │  OCR / ASR / chunk data  │
+│  5  relevance gate                          │   └──────────────────────────┘
+└──────────────────────┬──────────────────────┘
+                       ▼
+┌─ generation ────────────────────────────────┐
+│  LlamaGenerator · MmapGenerator             │
+│  llama.cpp / C++ backend ──► local LLM      │
+└─────────────────────────────────────────────┘
+```
 
-**Full Stack Developer Intern — OneYes Infotech Solutions Pvt. Ltd.**  
-_Dec 2025 – Jan 2026_
+- **Layered caching** — a topic-level cache and query-history snapshots sit ahead of FAISS HNSW retrieval
+- **Relevance gating** — cross-encoder reranking and a relevance gate filter what reaches generation
+- **Multimodal data** — OCR and ASR processing, with PostgreSQL-backed data and state
+- **Local inference** — llama.cpp and C++ backend components integrated with Python, lazy loading on performance-sensitive paths
 
-- Built backend APIs for a role-based online assessment platform
-- Implemented authentication & authorization workflows
-- Worked with JS/TS backend systems under real production constraints
+<br>
 
----
+### Project Atlas
 
-**Data Engineering Intern — Data Patterns**  
-_Internship_
+[`atlas`](https://github.com/Ajaysvasan/atlas)
 
-- Designed and executed large-scale web scraping pipelines
-- Scraped and processed **100,000+ structured data records**
-- Focused on data reliability, cleaning, and storage for downstream use
+A project-aware local RAG system for research. Atlas keeps persistent memory per project, scopes conversational retrieval to that project's context, and handles retrieval orchestration and adaptive knowledge acquisition for structured research workflows.
 
----
+<br>
 
-## Current Focus (2025–2026)
+<table>
+<tbody>
+<tr>
+<td width="33%" valign="top">
 
-- Large-scale **RAG & LLM systems** (anti-hallucination, caching, validation)
-- **Reinforcement Learning systems** with secure execution
-- Backend engineering (auth, APIs, real-time systems)
-- Core CS: OS, DBMS, CN, System Design (interview + implementation level)
+### DSA in C++
 
----
+[`DSA_in_cpp`](https://github.com/Ajaysvasan/DSA_in_cpp)
 
-## Active Projects
+Data structures, algorithms, and competitive programming in C++ — the fundamentals underneath the larger projects.
 
-### 🔹 RAG-TCRL-X — Research-grade RAG System
+<sub>graphs · trees · dynamic programming · DSU · recursion · STL · LeetCode</sub>
 
-A correctness-first Retrieval-Augmented Generation system featuring:
+</td>
+<td width="33%" valign="top">
 
-- Topic-conditioned FAISS HNSW retrieval
-- Global semantic retrieval-plan cache
-- Belief-based memory & refusal-first validation
-- RL-based system-level control
-- GPU → CPU fault-tolerant fallback
+### Neovim
 
-🔗 https://github.com/Ajaysvasan/memory_retrival
+[`nvim`](https://github.com/Ajaysvasan/nvim)
 
----
+Personal Neovim configuration — the editor setup I use for day-to-day development.
 
-### 🔹 Virtual RL Box
+</td>
+<td width="33%" valign="top">
 
-A secure reinforcement learning sandbox focused on **safe execution**:
+### Dotfiles
 
-- Custom RL environments
-- AES-encrypted communication
-- Argon2 password hashing
-- API hardening & access control
+[`.dotfiles`](https://github.com/Ajaysvasan/.dotfiles)
 
-🔗 https://github.com/Ajaysvasan/Virtual-RL-Box
+Linux configuration for Kitty, tmux, and Fastfetch, plus custom utilities.
 
----
+</td>
+</tr>
+</tbody>
+</table>
 
-### 🔹 Discord + Codeforces Mashup
+## Stack
 
-A full-stack competitive programming platform:
+```
+languages          C++ · Python · Java · TypeScript · JavaScript
+backend & systems  FastAPI · Spring Boot · PostgreSQL · Redis · Linux · Docker
+ai / ml            PyTorch · Transformers · RAG · LLMs · FAISS
+tools              Git · Neovim · tmux · CMake
+```
 
-- Team-based contests
-- Secure sandboxed code execution
-- Real-time collaboration
-- AI-based cheating detection
-
-🔗 https://github.com/Ajaysvasan/Discord-codeForces-project
-
----
-
-### 🔹 Focus Guard
-
-A productivity-focused system utility:
-
-- Blocks distracting applications during deep work
-- Actively kills forbidden processes
-- Built to understand OS-level process handling
-
-🔗 https://github.com/Ajaysvasan/FocusGaurd
-
----
-
-## Core Skills
-
-**Languages:**  
-C++, Python, JavaScript, TypeScript, C
-
-**AI / ML:**  
-Deep Learning, CNNs, Transformers, Reinforcement Learning, RAG, LLMs
-
-**Backend & Systems:**  
-FastAPI, Node.js, Auth systems, Secure APIs, Linux, Low-level design
-
-**Foundations:**  
-Data Structures, OOP, Memory Management, OS concepts
-
----
-
-## Achievements
+## Competitions
 
 - Winner – ProjectFest (AI/ML)
 - Winner – IEEE Software Competition (Sairam College)
 - Participant – IBM Datathon (Global)
 - Participant – AIML Challenge, IIT Madras
 
----
+<br>
 
-## Contact
-
-📧 ajay192006@gmail.com  
-🔗 https://github.com/Ajaysvasan  
-🔗 https://linkedin.com/in/ajay-s-vasan-584111291
-
----
-
-_I prefer building fewer projects — but building them deeply and correctly._
+<sub>I prefer building fewer projects — and building them deeply and correctly.</sub>
